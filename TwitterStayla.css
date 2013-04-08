@@ -1,0 +1,14 @@
+body
+{
+background-color:#b0c4de;
+    height: 81px;
+}
+
+
+p.normal {font-style:normal;}
+p.italic {font-style:italic;}
+
+
+
+a:link {color:#000000;}
+
